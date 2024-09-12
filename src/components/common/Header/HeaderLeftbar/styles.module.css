@@ -1,0 +1,7 @@
+.divider {
+	border: none;
+	border-left: 1px solid #000000;
+	height: 26px;
+	margin: 0 2px;
+	opacity: 1;
+}
